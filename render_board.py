@@ -43,10 +43,16 @@ class ChessBoard(tk.Tk):
         self.canvas.grid(row=0, column=1, sticky="nw")
         self.canvas.create_image(0, 0, anchor=tk.NW, image=self.photo)
 
-        # Create text box (entry widget) in row 1, column 1
+        # label
         self.entry = tk.Label(self, text=render_move_text(state.moves),
-                              justify="left", wraplength=400, anchor="ne", pady=80)
+                              justify="left", wraplength=400, anchor="ne", pady=80, padx = 20)
         self.entry.grid(row=1, column=1, sticky="nw")
+
+        # text box (entry widget) in row 1, column 0
+        self.user_label = tk.Label(self, text="User:")
+        self.user_label.grid(row=1, column=0, sticky="nw")
+        self.entry = tk.Text(self, width=50, height=13, pady=20)
+        self.entry.grid(row=1, column=0, sticky="sw")
 
 
 if __name__ == "__main__":
