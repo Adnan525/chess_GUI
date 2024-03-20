@@ -12,9 +12,15 @@ def convert_svg_to_png(svg_file, png_file):  # Tkinter not working with svg
         f.write(png_data)
 
 
-def render_move_text(moves : str):
+def render_move_text(moves: str):
     moves_list = moves.split()
-    return f"Current move : {moves_list[-1]} \n Previous moves : {moves_list[:-1]}"
+    side = "White" if len(moves_list) % 2 == 1 else "White"
+    prevs = "\n"
+    for i, move in enumerate(moves_list[:-1]):
+        prevs += f"{move} "
+        if (i + 1) % 2 == 0:
+            prevs += "\n"
+    return f"Current move : {side, moves_list[-1]} \nPrevious moves : {prevs}"
 
 
 class ChessBoard(tk.Tk):
@@ -34,12 +40,13 @@ class ChessBoard(tk.Tk):
 
         # display on 0, 1
         self.canvas = tk.Canvas(self, width=self.image.width, height=self.image.height)
-        self.canvas.grid(row=0, column=1, sticky="nsew")
+        self.canvas.grid(row=0, column=1, sticky="nw")
         self.canvas.create_image(0, 0, anchor=tk.NW, image=self.photo)
 
         # Create text box (entry widget) in row 1, column 1
-        self.entry = tk.Label(self, text=render_move_text(state.moves))
-        self.entry.grid(row=1, column=1, sticky="nsew")
+        self.entry = tk.Label(self, text=render_move_text(state.moves),
+                              justify="left", wraplength=400, anchor="ne", pady=80)
+        self.entry.grid(row=1, column=1, sticky="nw")
 
 
 if __name__ == "__main__":
