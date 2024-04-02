@@ -24,5 +24,8 @@ cd chess_gui
     app.mainloop()
 ```
 ## To do -
-- Top left box for API integration
-- Fix previous and current move widget
+- Top left box for API integration (leave)
+- Fix "current and prevous moves" widget, currently it's working since i have only 4 previous moves, try around 10 to 15 and see if it changes. If it doesn't work, cover part of the chess board; please fix it. You may need to look at "wraplength"
+- On cell 0,0 we want to show LLM output, so make a dummy input and LLM output for chess engine and the finetuned model. Display the output in <user> and <assistant> layout.
+- The user input box does not have anything yet. Store user input in a variable and print it on the 0,0 cell.
+- Create a button wherever you like called "next_move", we may use it but not sure yet. Just create the button for now. 
