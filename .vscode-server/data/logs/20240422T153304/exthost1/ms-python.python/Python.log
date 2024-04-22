@@ -1,0 +1,60 @@
+2024-04-22 15:33:43.343 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-22 15:33:43.343 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-22 15:33:43.344 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-22 15:33:43.344 [info] Experiment 'pythonTestAdapter' is active
+2024-04-22 15:33:43.344 [info] Default formatter is set to null for workspace /root
+2024-04-22 15:33:43.344 [info] Test server listening.
+2024-04-22 15:33:43.344 [info] Python interpreter path: /usr/local/bin/python
+2024-04-22 15:33:43.368 [info] > pyenv which python
+2024-04-22 15:33:43.368 [info] cwd: .
+2024-04-22 15:33:45.352 [info] Starting Pylance language server.
+2024-04-22 15:33:52.876 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:34:19.699 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:34:19.935 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:34:30.039 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:34:30.273 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:34:42.788 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:34:42.992 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:35:56.579 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:35:56.810 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:36:04.937 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:37:03.269 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:37:03.502 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:37:42.601 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:37:42.840 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:38:58.808 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:38:59.041 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:39:09.536 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:39:12.449 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:40:29.050 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:46:16.469 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:46:16.698 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:47:01.695 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:48:04.965 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:48:05.199 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:48:18.000 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:48:18.233 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:48:40.975 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:48:41.185 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:48:47.898 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:48:48.133 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:48:54.130 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:48:54.367 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:49:28.223 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:49:28.460 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:49:40.441 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:49:40.653 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:49:49.306 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:49:49.523 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:50:11.295 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:50:38.474 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:50:38.681 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:52:05.439 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:52:05.677 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:52:33.193 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:53:30.950 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py
+2024-04-22 15:53:31.182 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:53:52.580 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:53:53.263 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:53:53.521 [info] Discover tests for workspace name: root - uri: /root/render_board.py
+2024-04-22 15:54:08.048 [info] Send text to terminal: /usr/local/bin/python /root/render_board.py

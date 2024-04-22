@@ -1,0 +1,12 @@
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/node /tmp/vscode-remote-containers-9f78472a-6b75-4113-b833-0238b573029d.js git-credential-helper $*; }; f"
+[user]
+	email = adnaan525@gmail.com
+	name = Adnan525
+[core]
+	autocrlf = input
+[color]
+	ui = auto
+[safe]
+	directory = /home/adnaan/workspace_docker/pytorch/pytorch_tutorial
+	directory = /home/adnaan/workspace_docker/stock_fish_api

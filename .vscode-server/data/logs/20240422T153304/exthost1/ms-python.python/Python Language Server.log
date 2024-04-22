@@ -1,0 +1,19 @@
+2024-04-22 15:33:44.183 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-22 15:33:45.327 [info] [Info  - 3:33:45 PM] (703) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-22 15:33:45.329 [info] [Info  - 3:33:45 PM] (703) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-22 15:33:45.331 [info] [Info  - 3:33:45 PM] (703) Starting service instance "root"
+2024-04-22 15:33:45.411 [info] [Info  - 3:33:45 PM] (703) Setting pythonPath for service "root": "/usr/local/bin/python"
+2024-04-22 15:33:45.412 [info] [Info  - 3:33:45 PM] (703) Setting environmentName for service "root": "3.10.14 (global)"
+2024-04-22 15:33:45.472 [info] [Info  - 3:33:45 PM] (703) Assuming Python version 3.10.14.final.0
+2024-04-22 15:33:45.604 [info] [Info  - 3:33:45 PM] (703) Found 2 source files
+2024-04-22 15:33:46.962 [info] [Info  - 3:33:46 PM] (703) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-22 15:33:46.966 [info] [Info  - 3:33:46 PM] (703) Background analysis(1) started
+2024-04-22 15:33:47.646 [info] [Info  - 3:33:47 PM] (703) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-22 15:33:47.831 [info] [Info  - 3:33:47 PM] (703) Indexing(2) started
+2024-04-22 15:33:49.176 [info] [Info  - 3:33:49 PM] (703) scanned(2) 56 files over 1 exec env
+2024-04-22 15:33:51.251 [info] [Info  - 3:33:51 PM] (703) [BG(1)] Long operation: checking: file:///root/render_board.py (3362ms)
+2024-04-22 15:33:51.252 [info] [Info  - 3:33:51 PM] (703) [BG(1)] Long operation: analyzing: file:///root/render_board.py (3905ms)
+2024-04-22 15:33:53.752 [info] [Info  - 3:33:53 PM] (703) [IDX(2)] Long operation: index execution environment file:///root (2252ms)
+2024-04-22 15:33:53.785 [info] [Info  - 3:33:53 PM] (703) [IDX(2)] Long operation: index packages file:///root (2297ms)
+2024-04-22 15:33:53.785 [info] [Info  - 3:33:53 PM] (703) indexed(2) 40 files over 1 exec env
+2024-04-22 15:33:53.980 [info] [Info  - 3:33:53 PM] (703) Indexing finished(2).

@@ -1,0 +1,68 @@
+2024-04-22 15:33:04.187 [info] 
+
+
+
+
+2024-04-22 15:33:04.187 [info] Installing extensions...
+2024-04-22 15:33:04.187 [info] Extension host agent started.
+2024-04-22 15:33:04.187 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-04-22 15:33:04.203 [debug] ComputeTargetPlatform: linux-x64
+2024-04-22 15:33:04.207 [info] [127.0.0.1][0d461fe1][ManagementConnection] New connection established.
+2024-04-22 15:33:04.218 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-04-22 15:33:04.227 [debug] ComputeTargetPlatform: linux-x64
+2024-04-22 15:33:04.362 [info] Log level changed to info
+2024-04-22 15:33:04.574 [info] [127.0.0.1][a83dbcae][ExtensionHostConnection] New connection established.
+2024-04-22 15:33:04.648 [info] [127.0.0.1][a83dbcae][ExtensionHostConnection] <307> Launched Extension Host Process.
+2024-04-22 15:33:07.095 [info] Installing extension 'github.copilot'...
+2024-04-22 15:33:07.100 [info] Installing extension 'ms-python.debugpy'...
+2024-04-22 15:33:07.105 [info] Installing extension 'ms-python.python'...
+2024-04-22 15:33:07.111 [info] Installing extension 'github.copilot-chat'...
+2024-04-22 15:33:07.192 [info] Installing extension 'ms-python.vscode-pylance'...
+2024-04-22 15:33:07.195 [info] Getting Manifest... github.copilot
+2024-04-22 15:33:07.198 [info] Getting Manifest... ms-python.debugpy
+2024-04-22 15:33:07.198 [info] Getting Manifest... ms-python.python
+2024-04-22 15:33:07.200 [info] Getting Manifest... github.copilot-chat
+2024-04-22 15:33:07.200 [info] Getting Manifest... ms-python.vscode-pylance
+2024-04-22 15:33:07.636 [info] Installing extension: ms-python.debugpy
+2024-04-22 15:33:07.637 [info] Installing extension: github.copilot
+2024-04-22 15:33:07.638 [info] Installing extension: ms-python.python
+2024-04-22 15:33:07.640 [info] Installing extension: github.copilot-chat
+2024-04-22 15:33:07.642 [info] Installing extension: ms-python.vscode-pylance
+2024-04-22 15:33:08.439 [info] Getting Manifest... github.copilot
+2024-04-22 15:33:08.842 [info] Getting Manifest... github.copilot-chat
+2024-04-22 15:33:09.241 [info] Getting Manifest... ms-python.vscode-pylance
+2024-04-22 15:33:09.325 [info] Getting Manifest... ms-python.python
+2024-04-22 15:33:09.577 [info] Getting Manifest... ms-python.python
+2024-04-22 15:33:09.581 [info] Getting Manifest... ms-python.debugpy
+2024-04-22 15:33:11.273 [info] Getting Manifest... ms-python.vscode-pylance
+2024-04-22 15:33:11.444 [info] Getting Manifest... ms-python.debugpy
+2024-04-22 15:33:25.120 [info] Extension signature is verified: ms-python.debugpy
+2024-04-22 15:33:25.140 [info] Extension signature is verified: github.copilot-chat
+2024-04-22 15:33:25.141 [info] Extension signature is verified: github.copilot
+2024-04-22 15:33:25.374 [info] Extension signature is verified: ms-python.vscode-pylance
+2024-04-22 15:33:25.418 [info] Extension signature is verified: ms-python.python
+2024-04-22 15:33:26.322 [info] Extracted extension to file:///root/.vscode-server/extensions/github.copilot-chat-0.14.1: github.copilot-chat
+2024-04-22 15:33:26.336 [info] Renamed to /root/.vscode-server/extensions/github.copilot-chat-0.14.1
+2024-04-22 15:33:26.351 [info] Extracting extension completed. github.copilot-chat
+2024-04-22 15:33:26.806 [info] Extracted extension to file:///root/.vscode-server/extensions/github.copilot-1.181.0: github.copilot
+2024-04-22 15:33:26.818 [info] Renamed to /root/.vscode-server/extensions/github.copilot-1.181.0
+2024-04-22 15:33:26.823 [info] Extracting extension completed. github.copilot
+2024-04-22 15:33:27.405 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.debugpy-2024.4.0-linux-x64: ms-python.debugpy
+2024-04-22 15:33:27.416 [info] Renamed to /root/.vscode-server/extensions/ms-python.debugpy-2024.4.0-linux-x64
+2024-04-22 15:33:27.422 [info] Extracting extension completed. ms-python.debugpy
+2024-04-22 15:33:33.468 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.python-2024.4.1: ms-python.python
+2024-04-22 15:33:33.513 [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2024.4.1
+2024-04-22 15:33:33.523 [info] Extracting extension completed. ms-python.python
+2024-04-22 15:33:38.725 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1: ms-python.vscode-pylance
+2024-04-22 15:33:38.745 [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1
+2024-04-22 15:33:38.749 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-04-22 15:33:38.753 [info] Extension installed successfully: github.copilot-chat
+2024-04-22 15:33:38.753 [info] Extension installed successfully: github.copilot
+2024-04-22 15:33:38.753 [info] Extension installed successfully: ms-python.debugpy
+2024-04-22 15:33:38.753 [info] Extension installed successfully: ms-python.python
+2024-04-22 15:33:38.754 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-04-22 15:33:38.761 [info] Extension 'github.copilot-chat' v0.14.1 was successfully installed.
+2024-04-22 15:33:38.762 [info] Extension 'github.copilot' v1.181.0 was successfully installed.
+2024-04-22 15:33:38.762 [info] Extension 'ms-python.debugpy' v2024.4.0 was successfully installed.
+2024-04-22 15:33:38.762 [info] Extension 'ms-python.python' v2024.4.1 was successfully installed.
+2024-04-22 15:33:38.762 [info] Extension 'ms-python.vscode-pylance' v2024.4.1 was successfully installed.
